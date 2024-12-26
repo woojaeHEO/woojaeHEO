@@ -1,16 +1,19 @@
-## Hi there! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Welcome+to+Woojae's+GitHub!;Kotlin+Android+Developer;Passionate+about+Mobile+Innovation" alt="Typing SVG" />
+  <h1>✨ Welcome to Woojae's GitHub! ✨</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&color=FF6F61&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Kotlin+Expert;Learning+React+Native;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 About Me
+### 🌟 About Me
 
-- **🌟 Current Focus:** Kotlin-based Android development and exploring React Native.
-- **📚 Learning Goals:** Enhancing cross-platform development skills and mastering mobile UI/UX design.
-- **🤝 Collaboration:** Always open to exciting projects and innovative ideas. Let's build something amazing together!
+<div align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="200" alt="Hello" />
+</div>
+
+- **🎯 Current Focus:** Building modern Android apps with Kotlin and diving into cross-platform development.
+- **📈 Learning Goals:** Mastering React Native and enhancing mobile UI/UX design expertise.
+- **🤝 Open To:** Collaborative projects, innovative ideas, and knowledge sharing.
 
 ---
 
@@ -19,8 +22,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%23000000.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gradle-%2302303A.svg?style=for-the-badge&logo=gradle&logoColor=white" />
 </div>
 
 ---
@@ -38,13 +42,20 @@
 
 ---
 
-### ⚡ Fun Facts
-
-- 🌍 I love experimenting with new technologies and methodologies.
-- ☕ Always up for a brainstorming session over coffee!
-- 💡 "Code is like humor. When you have to explain it, it’s bad." — Cory House
+### 🌟 Fun Facts
 
 <div align="center">
+  <img src="https://media.giphy.com/media/26gsspfkdZl2gbQda/giphy.gif" width="200" height="200" alt="Coding" />
+</div>
+
+- 🌍 Exploring cutting-edge technologies to create impactful apps.
+- ☕ Coffee fuels my brainstorming sessions.
+- 💡 Favorite Quote: "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=woojaeHEO&show_icons=true&theme=radical" alt="Woojae's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woojaeHEO&layout=compact&theme=radical" alt="Top Languages" />
@@ -52,4 +63,6 @@
 
 ---
 
-Feel free to explore my repositories, and don't hesitate to reach out if you find something interesting or have ideas for collaboration. Let's create something impactful together!
+<div align="center">
+  <h2>🚀 Let's Connect and Build Amazing Projects Together!</h2>
+</div>
