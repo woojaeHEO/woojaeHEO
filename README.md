@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>✨ Welcome to Woojae's GitHub! ✨</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&color=FF6F61&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Kotlin+Expert;Learning+React+Native;Open+to+Collaboration!" alt="Typing SVG" />
+  <h1>🌟 Welcome to Woojae's GitHub! 🌟</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=Mobile+App+Developer;Kotlin+%7C+React+Native+Learner;Open+to+Collaboration;Building+the+Future!" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌟 About Me
+### 🚀 About Me
 
 <div align="center">
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="200" alt="Hello" />
 </div>
 
-- **🎯 Current Focus:** Building modern Android apps with Kotlin and diving into cross-platform development.
-- **📈 Learning Goals:** Mastering React Native and enhancing mobile UI/UX design expertise.
-- **🤝 Open To:** Collaborative projects, innovative ideas, and knowledge sharing.
+- **🎯 Current Focus:** Kotlin-based Android apps & exploring React Native.
+- **📈 Learning Goals:** Cross-platform development, elegant UI/UX design.
+- **🤝 Open To:** Exciting collaborations & innovative projects.
 
 ---
 
@@ -42,6 +42,15 @@
 
 ---
 
+### ⚡ GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=woojaeHEO&show_icons=true&theme=radical" alt="Woojae's GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woojaeHEO&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</div>
+
+---
+
 ### 🌟 Fun Facts
 
 <div align="center">
@@ -55,14 +64,5 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=woojaeHEO&show_icons=true&theme=radical" alt="Woojae's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woojaeHEO&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <h2>🚀 Let's Connect and Build Amazing Projects Together!</h2>
+  <h2>🚀 Let’s Connect & Build Something Amazing Together! 🌌</h2>
 </div>
