@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Welcome to Woojae's GitHub! ✨</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&color=FF6F61&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Kotlin+Expert;Learning+React+Native;Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&color=FF6F61&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Kotlin+Expert;Learning+React+Native;Open+to+Collaboration!" alt="Typing SVG" />
 </div>
 
 ---
